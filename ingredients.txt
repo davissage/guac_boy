@@ -9,6 +9,3 @@ IF lazy
 Salsa
 Avocado
 
-If lazier
-
-Buy it at supermarket
